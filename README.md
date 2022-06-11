@@ -101,7 +101,8 @@ hello表示控制器
 
 每次以Maven方式创建SpringMVC项目时都需要注意修改Artifacts里的lib，新建lib包 点+号导入
 
-![1650289092662](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1650289092662.png)
+![1650289092662](https://user-images.githubusercontent.com/68526302/173170088-022ecb3c-55bc-4929-b4a3-8c6f48e5cafa.png)
+
 
 ## 4、复用配置代码
 
